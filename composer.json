@@ -1,0 +1,13 @@
+{
+    "name": "solopv/spectrum",
+    "description": "colorpicker",
+    "homepage": "http://bgrins.github.io/spectrum/",
+    "keywords": [
+        "colorpicker"
+    ],
+    "authors": [{
+        "name": "Brian Grinstead"
+    }],
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
